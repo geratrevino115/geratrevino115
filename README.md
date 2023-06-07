@@ -9,4 +9,4 @@ Soy un desarrollador de software apasionado por la creación de soluciones tecno
 - Herramientas: Git, Docker, AWS
 
 ## Contacto
-Puedes contactarme a través de mi correo electrónico o encontrarme en [LinkedIn](enlace-a-tu-perfil-linkedin).
+Puedes contactarme a través de mi correo electrónico o encontrarme en [LinkedIn](https://www.linkedin.com/in/gerardotrevino115).
