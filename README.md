@@ -8,8 +8,8 @@ Soy un desarrollador de software apasionado por la creación de soluciones tecno
 - Frameworks: Pytorch, OpenCV, YOLO
 - Herramientas: Git, Docker, AWS
 
-{% comment %} 
-Automatic face recognition, and interpretation of the expression
+
+[](Automatic face recognition, and interpretation of the expression)
 Visual guidance of autonomous vehicles
 Automated medical image analysis, interpretation, and diagnosis
 3D urban modeling of a city using drone pictures.
