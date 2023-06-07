@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Gerardo Trevino
+# ¡Hola! Soy Gerardo Trevino
 
-## Descripción
+## Presentación
 Soy un desarrollador de software apasionado por la creación de soluciones tecnológicas. Me especializo en Vision Artificial y ML. Me encanta aprender y mantenerme actualizado sobre las últimas tecnologías.
 
 ## Habilidades Técnicas
